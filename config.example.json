@@ -1,0 +1,13 @@
+{
+    "odoo": {
+        "url": "https://your-odoo-instance.odoo.com",
+        "database": "your_database_name",
+        "username": "your_email@example.com",
+        "password": "your_xmlrpc_api_key",
+        "web_password": "your_odoo_login_password"
+    },
+    "local_output": "Y:\\My Drive\\Odoo Invoices",
+    "financial_year_start_month": 4,
+    "invoice_types": ["out_invoice", "out_refund"],
+    "bill_types": ["in_invoice", "in_refund"]
+}
